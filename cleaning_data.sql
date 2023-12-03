@@ -52,6 +52,8 @@ UPDATE calls SET csat_score = NULL WHERE NOT csat_score BETWEEN 1 AND 10;
 SELECT * FROM calls WHERE csat_score is NULL
 LIMIT 20;
 
+
+-- now time to do some EDA
 -- the count and percentage from total of each of the distinct values
 
 SELECT * FROM calls
