@@ -12,4 +12,4 @@ What I did, step by step:
 * Visualize it using Excel
 
 Link to the Tableau dashboard: 
-
+https://public.tableau.com/app/profile/mateusz.marchewka/viz/COVID19Overview/Dashboard1
