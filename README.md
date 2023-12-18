@@ -10,3 +10,5 @@ What I did, step by step:
 * Clean it a litle bit as it was pretty clean to begin with
 * Perform EDA
 * Visualize it using Tableau
+
+Link to the Tableau dashboard: https://public.tableau.com/app/profile/mateusz.marchewka/viz/CallsOverviewDashboard/CALLSOVERVIEW
